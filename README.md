@@ -1,7 +1,6 @@
 # CSC 422/522 – Computer Vision and Pattern Recognition (Spring 2026)
 
-This repository contains my coursework, notes, notebooks, and references for  
-**CSC 422/522: Computer Vision and Pattern Recognition** at South Dakota State University.
+This repository contains my coursework, notes, notebooks, and references for **CSC 422/522: Computer Vision and Pattern Recognition** at South Dakota State University.
 
 ---
 
@@ -42,8 +41,7 @@ This repository contains my coursework, notes, notebooks, and references for
 
 ## 📑 Lecture Slides (Source & Attribution)
 
-The lecture slides included in this repository are **provided by the course instructor**  
-and are used **strictly for personal academic study**.
+The lecture slides included in this repository are **provided by the course instructor** and are used **strictly for personal academic study**.
 
 **Source:**
 - Instructor: **Dr. Ruyi Lian**
@@ -64,11 +62,11 @@ and are used **strictly for personal academic study**.
 ---
 
 ## ⚠️ Academic Integrity Notice
-This repository is intended for **learning and personal reference only**.  
-Please follow SDSU’s academic integrity policies when using or referencing this material.
+This repository is intended for **learning and personal reference only**. Please follow SDSU’s academic integrity policies when using or referencing this material.
 
 ---
 
 ## 📬 Contact
-If you are an SDSU student enrolled in this course, please refer to the official D2L page  
-for the most up-to-date course materials.
+If you are an SDSU student enrolled in this course, please refer to the official D2L page for the most up-to-date course materials.
+
+---
