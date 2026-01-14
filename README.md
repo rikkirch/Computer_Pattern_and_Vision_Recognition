@@ -72,6 +72,3 @@ Please follow SDSU’s academic integrity policies when using or referencing thi
 ## 📬 Contact
 If you are an SDSU student enrolled in this course, please refer to the official D2L page  
 for the most up-to-date course materials.
-```
-
----
