@@ -16,11 +16,12 @@ This repository contains my coursework, notes, notebooks, and references for **C
 ```
 
 .
-├── notebooks/        # Jupyter / Colab notebooks (.ipynb)
-├── lectures/         # Lecture slides (PDFs)
-├── datasets/         # Datasets (stored locally or via Google Drive)
-├── assignments/      # Homework and projects
-└── README.md
+├── Lecture Slides
+    ├── 1_introduction.pdf
+    ├── 2_perspective_projection.pdf
+├── .DS_Store
+├── README.md
+└── Syllabus-CSC492_592-SP2026.pdf
 
 ```
 
