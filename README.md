@@ -15,7 +15,6 @@ This repository contains my coursework, notes, notebooks, and references for **C
 ## 📂 Repository Structure
 ```
 
-.
 ├── Lecture Slides
     ├── 1_introduction.pdf
     ├── 2_perspective_projection.pdf
